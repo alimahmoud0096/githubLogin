@@ -196,14 +196,7 @@ Run UI tests with:
 2. **Search Implementation**: Currently searches all repositories. Could be optimized to search only user's repositories more efficiently.
 3. **Error Messages**: Some error messages could be more user-friendly and localized.
 
-## Time Spent
 
-Approximately **7-8 hours** of focused development time, including:
-- Project setup and architecture: ~1 hour
-- Domain and data layers: ~2 hours
-- Presentation layer and UI: ~2.5 hours
-- Testing: ~1.5 hours
-- Documentation and polish: ~1 hour
 
 ## License
 
